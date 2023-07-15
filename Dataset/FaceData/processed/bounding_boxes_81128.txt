@@ -1,0 +1,39 @@
+Dataset/FaceData/processed\0\1.png 57 51 180 205
+Dataset/FaceData/processed\0\3.png 74 49 193 208
+Dataset/FaceData/processed\0\0.png 65 52 184 199
+Dataset/FaceData/processed\0\2.png 67 54 179 191
+Dataset/FaceData/processed\Hoang\IMG_20211002_192104_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192107.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192111_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192121.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192134.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192137.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192213_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192216.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192224.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192226.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192229.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192232.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192246.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192248.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192252_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192255.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192631.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192641.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192647.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192654.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192658.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192701.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192705_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192725.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192730.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192739.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192744.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192753.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192852.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192858_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192922.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192924.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192928.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192931.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_193112.png

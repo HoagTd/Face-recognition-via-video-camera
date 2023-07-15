@@ -1,0 +1,50 @@
+Dataset/FaceData/processed\Hoang\IMG_20211002_192637.png 2045 575 3593 2255
+Dataset/FaceData/processed\Hoang\IMG_20211002_192301.png 1604 94 3430 2308
+Dataset/FaceData/processed\Hoang\IMG_20211002_192631.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192226.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192931.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192641.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192753.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192232.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192739.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192059_1.png 2820 424 3310 1069
+Dataset/FaceData/processed\Hoang\IMG_20211002_192741.png 2826 315 4348 2069
+Dataset/FaceData/processed\Hoang\IMG_20211002_192216.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192647.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192701.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192725.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192104_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192246.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192908_1.png 1383 783 2702 2304
+Dataset/FaceData/processed\Hoang\IMG_20211002_192142_1.png 2099 861 3489 2324
+Dataset/FaceData/processed\Hoang\IMG_20211002_192852.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192858_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_193112.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192924.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192733.png 2811 908 4620 2719
+Dataset/FaceData/processed\Hoang\IMG_20211002_192654.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192118.png 1654 71 3155 1945
+Dataset/FaceData/processed\Hoang\IMG_20211002_192121.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192705_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192255.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192744.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192259.png 1424 0 3778 2456
+Dataset/FaceData/processed\Hoang\IMG_20211002_192115.png 2456 318 4212 2342
+Dataset/FaceData/processed\Hoang\IMG_20211002_192928.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192213_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192134.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192651.png 2826 515 2920 621
+Dataset/FaceData/processed\Hoang\IMG_20211002_192139_1.png 2250 993 3697 2334
+Dataset/FaceData/processed\Hoang\IMG_20211002_192107.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192252_1.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192057.png 1897 335 3138 1843
+Dataset/FaceData/processed\Hoang\IMG_20211002_192224.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192229.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192137.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192135.png 3005 760 3604 1600
+Dataset/FaceData/processed\Hoang\IMG_20211002_192922.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192221.png 2795 2171 2915 2313
+Dataset/FaceData/processed\Hoang\IMG_20211002_192658.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192730.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192248.png
+Dataset/FaceData/processed\Hoang\IMG_20211002_192111_1.png
